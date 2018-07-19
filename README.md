@@ -5,7 +5,11 @@ eizou_media report
 
 ・実行方法
 
-facade_datasetをhttp://cmp.felk.cvut.cz/~tylecr1/facade/から落としbase直下にjpg及びpngを置く
+facade_datasetを
+
+http://cmp.felk.cvut.cz/~tylecr1/facade/
+
+から落としbase直下にjpg及びpngを置く
 
 run_Unet.sh $1 ($1は結果の出力先フォルダ名) でUnet(論文中におけるL1のみ)による変換モデルの学習及び変換　GPU環境で2時間程度
 
