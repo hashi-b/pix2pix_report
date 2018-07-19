@@ -16,5 +16,7 @@ sh内でepochやbatch、gpu使用の有無などのオプションも変更可�
 
 画像データのIO周りに関しては以下のコードを参考にしました
 
+https://github.com/mattya/chainer-DCGAN
+
 Copyright (c) 2016 Eiichi Matsumoto
 
