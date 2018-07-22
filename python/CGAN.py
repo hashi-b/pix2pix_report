@@ -193,7 +193,7 @@ class Discriminator(chainer.Chain):
             self.conv6 = L.Convolution2D(512,512,4,2,1)
             self.norm6 = L.BatchNormalization(512)
 
-            self.conv7 = L.Convolution2D(512,1,4,2,1)
+            #self.conv7 = L.Convolution2D(512,1,4,2,1)
 
 
  
